@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastReceiverLianXi</string>
+    <string name="send_broadcast">发送广播</string>
+    <string name="receiver_zhu_ce1">动态注册广播1</string>
+    <string name="un_receiver_zhu_xiao1">动态注销广播1</string>
+    <string name="receiver_zhu_ce2">动态注册广播2</string>
+    <string name="un_receiver_zhu_xiao2">动态注销广播2</string>
+</resources>

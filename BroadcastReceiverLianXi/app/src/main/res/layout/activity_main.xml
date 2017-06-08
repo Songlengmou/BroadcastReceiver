@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.syp.broadcastreceiverlianxi.MainActivity">
+
+    <Button
+        android:id="@+id/btnSendBroadcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_broadcast" />
+
+    <Button
+        android:id="@+id/btnReceiverZhuCe1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/receiver_zhu_ce1" />
+
+    <Button
+        android:id="@+id/btnUnReceiverZhuXiao1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/un_receiver_zhu_xiao1" />
+
+    <Button
+        android:id="@+id/btnReceiverZhuCe2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/receiver_zhu_ce2" />
+
+    <Button
+        android:id="@+id/btnUnReceiverZhuXiao2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/un_receiver_zhu_xiao2" />
+</LinearLayout>
