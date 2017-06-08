@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsingBroadcastReceiver</string>
+    <string name="send_broadcast">发送广播</string>
+    <string name="register_broadcast_receiver1">动态注册广播接收器1</string>
+    <string name="register_broadcast_receiver2">动态注册广播接收器2</string>
+    <string name="un_register_broadcast_receiver1">动态注销广播接收器1</string>
+    <string name="un_register_broadcast_receiver2">动态注销广播接收器2</string>
+
+</resources>
